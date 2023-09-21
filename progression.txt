@@ -1,0 +1,28 @@
+Home(index) 95%
+-ที่เหลือต้องทำ type of beef กับ recipe กับ blog ให้เสร็จก่อน
+ ถ้า 3 อันนี้เสร็จหน้า homeจะ 100%
+
+<---about us 100%--->
+
+
+Types of beef cuts 30%
+-เสร็จเเค่ header area
+-เหลือเยอะชิบหาย
+
+
+recipe 30%
+-header area เสร็จ
+-footer เสร็จ
+-เหมือนอันข้างบน
+
+
+blog 5%
+-header area เสร็จ
+-footer เสร็จ
+-เหมือนอันข้างบนยกกำลังสอง
+
+
+<---contact 100%--->
+
+
+presentation 0%
